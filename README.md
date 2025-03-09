@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00A1D9&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+&+Backend+Expert;API+Integration+Specialist;Building+Scalable+Solutions;Open+to+Freelance+&+Job+Offers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00A1D9&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+|+Frontend+%26+Backend+Expert+|+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
@@ -7,20 +7,19 @@
 ## 🚀 About Me  
 
 - 🔥 Passionate **MERN Stack Developer** with expertise in **Frontend & Backend**.  
-- 🎯 Specializing in **API Integrations, Full-Stack Web Apps & Automation**.  
-- 💡 Always innovating with **AI-powered Web Solutions & Scalable Architectures**.  
-- 💻 Strong foundation in **React, Next.js, Node.js, MongoDB & Tailwind CSS**.  
+- 🎯 Specializing in **API Integrations, Web App Development & Automation**.  
+- 💡 Strong skills in **React, Next.js, Node.js, MongoDB & Tailwind CSS**.  
 - 📜 Certified **Meta Frontend Developer** & **API Integration - End-to-End Web Development (Coursera)**.  
 
 ---
 
 ## 💼 Services I Offer  
 
-💻 **Full-Stack Web Development** – Complete website & web app solutions  
+💻 **Full-Stack Web Development** – Modern & scalable web apps  
 🔗 **API Integration & Automation** – Seamless backend connections  
-🎨 **UI/UX Design & Frontend Development** – Beautiful & responsive designs  
-📈 **Performance Optimization** – Speed & efficiency tuning  
-📊 **Web & App Deployment** – Secure, scalable hosting solutions  
+🎨 **UI/UX Design & Frontend Development** – Responsive & interactive UIs  
+📈 **Performance Optimization** – Faster & efficient web solutions  
+📊 **Deployment & Hosting** – Secure & scalable hosting setups  
 
 📩 **Want to work with me?** → [Email me](mailto:aamir.ullah.dev@gmail.com)  
 
@@ -29,7 +28,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,python,git,github,vscode,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
 
 ---
