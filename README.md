@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00A1D9&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+|+Frontend+%26+Backend+|+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00A1D9&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+%26+Backend+Expert;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,15 +13,10 @@
 
 ---
 
-## 💼 Services I Offer  
+## 💼 Experience  
 
-💻 **Full-Stack Web Development** – Modern & scalable web apps  
-🔗 **API Integration & Automation** – Seamless backend connections  
-🎨 **UI/UX Design & Frontend Development** – Responsive & interactive UIs  
-📈 **Performance Optimization** – Faster & efficient web solutions  
-📊 **Deployment & Hosting** – Secure & scalable hosting setups  
-
-📩 **Want to work with me?** → [Email me](mailto:aamir.ullah.dev@gmail.com)  
+🔹 **6-Month Internship** @ IT Artificier – MERN Stack Development  
+🔹 **2-Month Internship** @ Abasyn University – Web Development  
 
 ---
 
