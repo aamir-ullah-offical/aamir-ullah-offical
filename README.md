@@ -1,8 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Frontend+%7C+Backend+%7C+Problem+Solver;Building+Real-World+Solutions;Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80;MERN+Stack+Developer;Frontend+%7C+Backend+%7C+Problem+Solver" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+  <img src="https://komarev.com/ghpvc/?username=aamir-ullah-offical&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
+
 ### **🛠️ About Me**
 - 💻 MERN Stack Developer | Frontend & Backend
 - 🔍 Passionate About Web & AI Innovations
@@ -16,6 +22,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aamir-ullah-offical&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-ullah-offical&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### **💡 Tech Stack & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,tailwind,vscode&theme=light" />
 </p>
 
 ---
@@ -35,13 +48,20 @@
 
 ---
 
-### **💡 Latest Projects**
-- 🚀 **AI-Powered Web Solutions**
-- 🌐 **Dynamic Portfolio Website**
-- 📦 **E-Commerce Store with MERN**
-- 🛠️ **Custom Web API Integrations**
+### **🔥 Fun Fact**
+_“The best way to predict the future is to create it.” – Peter Drucker_  
 
 ---
 
-### **🔥 Fun Fact**
-_“The best way to predict the future is to create it.” – Peter Drucker_  
+### **🌟 3D Contribution Graph**
+<p align="center">
+  <img src="https://github.com/aamir-ullah-offical/aamir-ullah-offical/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### **🚀 Latest Projects**
+- 🎯 **AI-Powered Web Solutions**
+- 🌐 **Dynamic Portfolio Website**
+- 🛍️ **E-Commerce Store with MERN**
+- 🛠️ **Custom Web API Integrations**
