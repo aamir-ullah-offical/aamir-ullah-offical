@@ -1,55 +1,47 @@
-### Hi there! I'm Amir 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Frontend+%7C+Backend+%7C+Problem+Solver;Building+Real-World+Solutions;Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
+---
+### **🛠️ About Me**
+- 💻 MERN Stack Developer | Frontend & Backend
+- 🔍 Passionate About Web & AI Innovations
+- 🚀 Focused on Building Scalable Web Solutions
+- 🧩 Problem Solver | Tech Enthusiast
+- 🌍 Exploring New Technologies Everyday
 
 ---
 
-### 🚀 About Me
-
-- 💻 **MERN Stack Developer | Python Programmer | Tech Enthusiast**  
-- 🎯 Passionate about **Web Development, AI, and Automation**
-- ⚡ **Challenge Lover & Deep Learner** – Always exploring new tech!
-- 🌐 Building **AI-Integrated Web Solutions** in the future 🔥
-- 🏆 Love solving **real-world problems** with innovative solutions
+### **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aamir-ullah-offical&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-ullah-offical&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-#### **Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### **Backend & Databases:**
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-#### **Others:**
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud-%23007396.svg?style=for-the-badge&logo=cloud&logoColor=white)
+### **🌍 Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/aamirullahofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aamir-ullah-offical" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/aamir_ullah_official/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-
-![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itz-amir&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-amir&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itz-amir)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+### **💡 Latest Projects**
+- 🚀 **AI-Powered Web Solutions**
+- 🌐 **Dynamic Portfolio Website**
+- 📦 **E-Commerce Store with MERN**
+- 🛠️ **Custom Web API Integrations**
 
 ---
 
-⚡ **"Building the future, one line of code at a time."** 🚀
+### **🔥 Fun Fact**
+_“The best way to predict the future is to create it.” – Peter Drucker_  
