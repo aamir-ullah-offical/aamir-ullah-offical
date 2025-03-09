@@ -1,28 +1,40 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00A1D9&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full-Stack+Web+Enthusiast;Problem+Solver;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00A1D9&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+&+Backend+Expert;API+Integration+Specialist;Building+Scalable+Solutions;Open+to+Freelance+&+Job+Offers" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🔥 Passionate **MERN Stack Developer** with expertise in **Frontend & Backend**.
-- 🏆 Certified in **Meta Frontend Developer** & **API Integration - End to End Web Development (Coursera)**.
-- 🧠 Always learning new tech, solving problems, and creating **scalable web applications**.
-- ⚡ Focused on **AI-powered Web Solutions** & **Automation**.
-- 🌐 Love **open-source contributions** and collaborative development.
+- 🔥 Passionate **MERN Stack Developer** with expertise in **Frontend & Backend**.  
+- 🎯 Specializing in **API Integrations, Full-Stack Web Apps & Automation**.  
+- 💡 Always innovating with **AI-powered Web Solutions & Scalable Architectures**.  
+- 💻 Strong foundation in **React, Next.js, Node.js, MongoDB & Tailwind CSS**.  
+- 📜 Certified **Meta Frontend Developer** & **API Integration - End-to-End Web Development (Coursera)**.  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💼 Services I Offer  
+
+💻 **Full-Stack Web Development** – Complete website & web app solutions  
+🔗 **API Integration & Automation** – Seamless backend connections  
+🎨 **UI/UX Design & Frontend Development** – Beautiful & responsive designs  
+📈 **Performance Optimization** – Speed & efficiency tuning  
+📊 **Web & App Deployment** – Secure, scalable hosting solutions  
+
+📩 **Want to work with me?** → [Email me](mailto:aamir.ullah.dev@gmail.com)  
+
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,python,git,github,vscode,figma,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aamir-ullah-offical&show_icons=true&theme=radical&hide_border=true" />
@@ -34,24 +46,16 @@
 
 ---
 
-## 🎵 Music Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYm5rVVTMqBdEk/giphy.gif" width="400" alt="Music Visual" />
-</p>
-
----
-
-## 🌍 Connect With Me
+## 🌍 Connect With Me  
 
 <p align="center">
   <a href="https://www.instagram.com/aamir_ullah_official/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aamirullahofficial/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/AamirUllahOfficial/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@aamir_dev?_t=ZS-8uWtZv8jwaw&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@aamir_dev"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://github.com/aamir-ullah-offical"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-🔥 **Always exploring, always innovating!** 🚀
+🔥 **Let's build something amazing together!** 🚀  
