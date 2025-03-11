@@ -8,7 +8,7 @@
 
 - 🔥 Passionate **MERN Stack Developer** with expertise in **Frontend & Backend**.  
 - 🎯 Specializing in **API Integrations, Web App Development & Automation**.  
-- 💡 Strong skills in **React, Next.js, Node.js, MongoDB & Tailwind CSS**.  
+- 💡 Strong skills in **React, Node.js, MongoDB & Tailwind CSS**.  
 - 📜 Certified **Meta Frontend Developer** & **API Integration - End-to-End Web Development (Coursera)**.  
 
 ---
