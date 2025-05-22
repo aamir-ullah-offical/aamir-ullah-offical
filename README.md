@@ -15,7 +15,7 @@
 
 ## 💼 Experience  
 
-🔹 **6-Month Internship** @ IT Artificier – MERN Stack Development  
+🔹 **3-Month Internship** @ IT Artificier – MERN Stack Development  
 🔹 **2-Month Internship** @ Abasyn University – Web Development  
 
 ---
