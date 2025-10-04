@@ -52,4 +52,6 @@
 
 ---
 
+[![An image of @aamirullahoffical's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aamirullahoffical)](https://holopin.io/@aamirullahoffical)
+
 🔥 **Let's build something amazing together!** 🚀  
