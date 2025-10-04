@@ -51,7 +51,11 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://holopin.io/@aamirullahoffical" target="_blank">
+    <img src="https://holopin.me/aamirullahoffical" alt="Holopin Badges" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  </a>
+</p>
 
-[![An image of @aamirullahoffical's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aamirullahoffical)](https://holopin.io/@aamirullahoffical)
 
 🔥 **Let's build something amazing together!** 🚀  
