@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 12" width="1000" height="12" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="glint" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F0A202" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F0A202"/>
+      <stop offset="1" stop-color="#F0A202" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .g { animation: s 5s linear infinite; }
+      @keyframes s { from { transform: translateX(-220px); } to { transform: translateX(1040px); } }
+      @media (prefers-reduced-motion: reduce) { .g { animation: none; transform: translateX(420px); } }
+    </style>
+  </defs>
+  <rect x="0" y="5" width="1000" height="2" rx="1" fill="#24385F"/>
+  <rect class="g" x="0" y="5" width="180" height="2" rx="1" fill="url(#glint)"/>
+</svg>

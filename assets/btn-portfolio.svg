@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 52" width="180" height="52" role="img" aria-labelledby="t">
+  <title id="t">Portfolio</title>
+  <defs>
+    <style>.sans { font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }</style>
+  </defs>
+  <rect x="0.5" y="0.5" width="179" height="51" rx="25.5" fill="#0B1220" stroke="#3A5080"/>
+  <text class="sans" x="82" y="32" font-size="17" font-weight="700" fill="#F5F6F8" text-anchor="middle">Portfolio</text>
+  <path d="M138 26H152M147 21L152 26L147 31" fill="none" stroke="#F0A202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

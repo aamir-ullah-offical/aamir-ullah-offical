@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 200" width="490" height="200" role="img" aria-labelledby="t">
+  <title id="t">Admin-Pannel: admin dashboard interface styled with SCSS</title>
+  <defs>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="30"/></filter>
+    <clipPath id="c"><rect width="490" height="200" rx="18"/></clipPath>
+    <linearGradient id="bd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="490" y2="200" spreadMethod="reflect">
+      <stop offset="0" stop-color="#24385F"/>
+      <stop offset="0.5" stop-color="#F0A202"/>
+      <stop offset="1" stop-color="#24385F"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="980 400" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      .gl { animation: g 9s ease-in-out infinite alternate; }
+      @keyframes g { to { transform: translate(-60px, 40px); } }
+      @media (prefers-reduced-motion: reduce) { .gl { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="490" height="200" rx="18" fill="#0F1A30"/>
+  <g clip-path="url(#c)"><g filter="url(#blur)"><circle class="gl" cx="430" cy="20" r="80" fill="#F0A202" fill-opacity="0.16"/></g></g>
+  <rect x="1" y="1" width="488" height="198" rx="17" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+
+  <g class="sans">
+    <path d="M32 38a4 4 0 0 1 4-4h10l4 5h14a4 4 0 0 1 4 4v18a4 4 0 0 1-4 4H36a4 4 0 0 1-4-4z" fill="none" stroke="#F0A202" stroke-width="1.8" stroke-linejoin="round"/>
+    <text x="84" y="58" font-size="22" font-weight="700" fill="#F5F6F8">Admin-Pannel</text>
+    <text x="32" y="106" font-size="15" fill="#9AA8C4">Admin dashboard interface,</text>
+    <text x="32" y="128" font-size="15" fill="#9AA8C4">styled with SCSS.</text>
+    <path d="M32 148H458" stroke="#24385F"/>
+    <circle cx="40" cy="173" r="5" fill="#C6538C"/>
+    <text x="54" y="178" font-size="14" fill="#F5F6F8">SCSS</text>
+    <text x="440" y="178" font-size="14" font-weight="600" fill="#F0A202" text-anchor="end">View repository</text>
+    <path d="M448 173H462M457 168L462 173L457 178" fill="none" stroke="#F0A202" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

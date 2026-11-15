@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520" role="img" aria-labelledby="t d">
+  <title id="t">What I do</title>
+  <desc id="d">Four tiles: frontend with React, backend with Node.js and Express, API integration, and automation.</desc>
+
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#121F3A"/>
+      <stop offset="1" stop-color="#0D1830"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      .h { font-size: 24px; font-weight: 700; fill: #F5F6F8; }
+      .b { font-size: 15px; fill: #9AA8C4; }
+
+      .sk { animation: sk 2.4s ease-in-out infinite; }
+      @keyframes sk { 0%, 100% { opacity: 0.35; } 50% { opacity: 0.85; } }
+
+      .rq { animation: rq 6s ease-in-out infinite both; }
+      @keyframes rq { 0%, 4% { opacity: 0; } 12%, 88% { opacity: 1; } 96%, 100% { opacity: 0; } }
+
+      .bx { stroke: #24385F; animation: bx 3.6s ease-in-out infinite; }
+      @keyframes bx { 0%, 28% { stroke: #F0A202; } 40%, 100% { stroke: #24385F; } }
+
+      @media (prefers-reduced-motion: reduce) {
+        .sk, .rq, .bx { animation: none; }
+        .sk { opacity: 0.7; }
+        .rq { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- A: Frontend -->
+  <g class="sans" transform="translate(0,0)">
+    <rect width="600" height="250" rx="20" fill="url(#tile)" stroke="#24385F"/>
+    <text class="h" x="32" y="58">Frontend</text>
+    <text class="b" x="32" y="94">React interfaces that hold up</text>
+    <text class="b" x="32" y="116">from phone to desktop, styled</text>
+    <text class="b" x="32" y="138">with Tailwind CSS and Bootstrap.</text>
+    <rect x="32" y="186" width="212" height="32" rx="16" fill="#F0A202" fill-opacity="0.08" stroke="#F0A202" stroke-opacity="0.5"/>
+    <text x="138" y="207" font-size="13" fill="#F0A202" text-anchor="middle">Meta Front-End certified</text>
+
+    <rect x="330" y="32" width="236" height="186" rx="12" fill="#0B1220" stroke="#24385F"/>
+    <circle cx="348" cy="50" r="4" fill="#24385F"/>
+    <circle cx="362" cy="50" r="4" fill="#24385F"/>
+    <circle cx="376" cy="50" r="4" fill="#24385F"/>
+    <rect x="392" y="43" width="160" height="14" rx="7" fill="#16284A"/>
+    <rect class="sk" x="346" y="72" width="204" height="46" rx="8" fill="#24385F"/>
+    <rect x="356" y="98" width="46" height="12" rx="6" fill="#F0A202"/>
+    <rect class="sk" x="346" y="130" width="62" height="72" rx="8" fill="#24385F" style="animation-delay:.3s"/>
+    <rect class="sk" x="419" y="130" width="62" height="72" rx="8" fill="#24385F" style="animation-delay:.6s"/>
+    <rect class="sk" x="492" y="130" width="58" height="72" rx="8" fill="#24385F" style="animation-delay:.9s"/>
+  </g>
+
+  <!-- B: Backend -->
+  <g class="sans" transform="translate(620,0)">
+    <rect width="380" height="250" rx="20" fill="url(#tile)" stroke="#24385F"/>
+    <text class="h" x="32" y="58">Backend</text>
+    <text class="b" x="32" y="94">Node.js and Express services</text>
+    <text class="b" x="32" y="116">on MongoDB, with clear routes</text>
+    <text class="b" x="32" y="138">and validated input.</text>
+
+    <rect x="32" y="176" width="80" height="44" rx="10" fill="#0B1220" stroke="#24385F"/>
+    <text x="72" y="203" font-size="14" font-weight="600" fill="#F5F6F8" text-anchor="middle">Client</text>
+    <rect x="152" y="176" width="80" height="44" rx="10" fill="#0B1220" stroke="#F0A202"/>
+    <text x="192" y="203" font-size="14" font-weight="600" fill="#F5F6F8" text-anchor="middle">API</text>
+    <rect x="272" y="176" width="80" height="44" rx="10" fill="#0B1220" stroke="#24385F"/>
+    <text x="312" y="203" font-size="14" font-weight="600" fill="#F5F6F8" text-anchor="middle">MongoDB</text>
+
+    <path d="M112 198H152M232 198H272" stroke="#24385F" stroke-width="2" stroke-dasharray="3 4"/>
+    <circle r="3.5" fill="#F0A202"><animateMotion dur="1.6s" repeatCount="indefinite" path="M112 198H152"/></circle>
+    <circle r="3.5" fill="#2DD4BF"><animateMotion dur="1.6s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1" keyTimes="0;0.5;1" path="M232 198H272"/></circle>
+  </g>
+
+  <!-- C: API integration -->
+  <g class="sans" transform="translate(0,270)">
+    <rect width="380" height="250" rx="20" fill="url(#tile)" stroke="#24385F"/>
+    <text class="h" x="32" y="58">API integration</text>
+    <text class="b" x="32" y="94">Third-party services wired in</text>
+    <text class="b" x="32" y="116">end to end, backed by a Coursera</text>
+    <text class="b" x="32" y="138">API integration certificate.</text>
+
+    <rect x="32" y="162" width="316" height="68" rx="10" fill="#0B1220" stroke="#24385F"/>
+    <g class="mono" font-size="13">
+      <g class="rq" style="animation-delay:.2s">
+        <text x="48" y="190" fill="#F5F6F8">GET   /api/products</text>
+        <text x="332" y="190" fill="#2DD4BF" text-anchor="end">200</text>
+      </g>
+      <g class="rq" style="animation-delay:.9s">
+        <text x="48" y="214" fill="#F5F6F8">POST  /api/orders</text>
+        <text x="332" y="214" fill="#2DD4BF" text-anchor="end">201</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- D: Automation -->
+  <g class="sans" transform="translate(400,270)">
+    <rect width="600" height="250" rx="20" fill="url(#tile)" stroke="#24385F"/>
+    <text class="h" x="32" y="58">Automation</text>
+    <text class="b" x="32" y="94">Scripts and workflows that take repetitive work</text>
+    <text class="b" x="32" y="116">off your plate and keep the results consistent.</text>
+
+    <rect class="bx" x="40" y="146" width="140" height="72" rx="12" fill="#0B1220" stroke-width="1.5"/>
+    <text x="110" y="177" font-size="16" font-weight="700" fill="#F5F6F8" text-anchor="middle">Trigger</text>
+    <text x="110" y="198" font-size="12" fill="#9AA8C4" text-anchor="middle">Event or schedule</text>
+
+    <rect class="bx" x="230" y="146" width="140" height="72" rx="12" fill="#0B1220" stroke-width="1.5" style="animation-delay:1.2s"/>
+    <text x="300" y="177" font-size="16" font-weight="700" fill="#F5F6F8" text-anchor="middle">Process</text>
+    <text x="300" y="198" font-size="12" fill="#9AA8C4" text-anchor="middle">Run the script</text>
+
+    <rect class="bx" x="420" y="146" width="140" height="72" rx="12" fill="#0B1220" stroke-width="1.5" style="animation-delay:2.4s"/>
+    <text x="490" y="177" font-size="16" font-weight="700" fill="#F5F6F8" text-anchor="middle">Deliver</text>
+    <text x="490" y="198" font-size="12" fill="#9AA8C4" text-anchor="middle">Result sent on</text>
+
+    <path d="M184 182H226M374 182H416" stroke="#24385F" stroke-width="2"/>
+    <path d="M220 176L226 182L220 188M410 176L416 182L410 188" fill="none" stroke="#F0A202" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

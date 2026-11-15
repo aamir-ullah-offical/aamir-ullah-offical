@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="1000" height="140" role="img" aria-labelledby="t">
+  <title id="t">Tech stack: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, REST APIs, Git, GitHub, Figma, VS Code</title>
+
+  <defs>
+    <linearGradient id="fadeX" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.12" stop-color="#FFFFFF"/>
+      <stop offset="0.88" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <mask id="edge"><rect width="1000" height="140" fill="url(#fadeX)"/></mask>
+
+    <style>
+      .sans { font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      .p { fill: #121F3A; stroke: #24385F; }
+      .t { font-size: 14px; font-weight: 600; fill: #F5F6F8; text-anchor: middle; }
+      .a1 { animation: left 38s linear infinite; }
+      .a2 { animation: right 34s linear infinite; }
+      @keyframes left { to { transform: translateX(-905px); } }
+      @keyframes right { from { transform: translateX(-829px); } to { transform: translateX(0); } }
+      @media (prefers-reduced-motion: reduce) { .a1, .a2 { animation: none; } }
+    </style>
+
+    <!-- Row 1: loop width 905 -->
+    <g id="r1" class="sans">
+      <rect class="p" x="0" y="0" width="72" height="40" rx="20"/><circle cx="16" cy="20" r="2.5" fill="#F0A202"/><text class="t" x="46" y="25">HTML</text>
+      <rect class="p" x="84" y="0" width="63" height="40" rx="20"/><circle cx="100" cy="20" r="2.5" fill="#F0A202"/><text class="t" x="125.5" y="25">CSS</text>
+      <rect class="p" x="159" y="0" width="122" height="40" rx="20"/><circle cx="175" cy="20" r="2.5" fill="#F0A202"/><text class="t" x="230" y="25">JavaScript</text>
+      <rect class="p" x="293" y="0" width="122" height="40" rx="20"/><circle cx="309" cy="20" r="2.5" fill="#F0A202"/><text class="t" x="364" y="25">TypeScript</text>
+      <rect class="p" x="427" y="0" width="80" height="40" rx="20"/><circle cx="443" cy="20" r="2.5" fill="#F0A202"/><text class="t" x="477" y="25">React</text>
+      <rect class="p" x="519" y="0" width="97" height="40" rx="20"/><circle cx="535" cy="20" r="2.5" fill="#F0A202"/><text class="t" x="577.5" y="25">Next.js</text>
+      <rect class="p" x="628" y="0" width="139" height="40" rx="20"/><circle cx="644" cy="20" r="2.5" fill="#F0A202"/><text class="t" x="707.5" y="25">Tailwind CSS</text>
+      <rect class="p" x="779" y="0" width="114" height="40" rx="20"/><circle cx="795" cy="20" r="2.5" fill="#F0A202"/><text class="t" x="846" y="25">Bootstrap</text>
+    </g>
+
+    <!-- Row 2: loop width 829 -->
+    <g id="r2" class="sans">
+      <rect class="p" x="0" y="0" width="97" height="40" rx="20"/><circle cx="16" cy="20" r="2.5" fill="#2DD4BF"/><text class="t" x="58.5" y="25">Node.js</text>
+      <rect class="p" x="109" y="0" width="97" height="40" rx="20"/><circle cx="125" cy="20" r="2.5" fill="#2DD4BF"/><text class="t" x="167.5" y="25">Express</text>
+      <rect class="p" x="218" y="0" width="97" height="40" rx="20"/><circle cx="234" cy="20" r="2.5" fill="#2DD4BF"/><text class="t" x="276.5" y="25">MongoDB</text>
+      <rect class="p" x="327" y="0" width="114" height="40" rx="20"/><circle cx="343" cy="20" r="2.5" fill="#2DD4BF"/><text class="t" x="394" y="25">REST APIs</text>
+      <rect class="p" x="453" y="0" width="63" height="40" rx="20"/><circle cx="469" cy="20" r="2.5" fill="#2DD4BF"/><text class="t" x="494.5" y="25">Git</text>
+      <rect class="p" x="528" y="0" width="88" height="40" rx="20"/><circle cx="544" cy="20" r="2.5" fill="#2DD4BF"/><text class="t" x="582" y="25">GitHub</text>
+      <rect class="p" x="628" y="0" width="80" height="40" rx="20"/><circle cx="644" cy="20" r="2.5" fill="#2DD4BF"/><text class="t" x="678" y="25">Figma</text>
+      <rect class="p" x="720" y="0" width="97" height="40" rx="20"/><circle cx="736" cy="20" r="2.5" fill="#2DD4BF"/><text class="t" x="778.5" y="25">VS Code</text>
+    </g>
+  </defs>
+
+  <rect width="1000" height="140" rx="20" fill="#0B1220"/>
+  <rect x="0.5" y="0.5" width="999" height="139" rx="19.5" fill="none" stroke="#24385F"/>
+
+  <g mask="url(#edge)">
+    <g transform="translate(0,20)">
+      <g class="a1">
+        <use href="#r1" x="0"/>
+        <use href="#r1" x="905"/>
+        <use href="#r1" x="1810"/>
+      </g>
+    </g>
+    <g transform="translate(0,80)">
+      <g class="a2">
+        <use href="#r2" x="0"/>
+        <use href="#r2" x="829"/>
+        <use href="#r2" x="1658"/>
+      </g>
+    </g>
+  </g>
+</svg>

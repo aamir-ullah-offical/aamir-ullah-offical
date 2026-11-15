@@ -1,243 +1,59 @@
- <!-- README.md -->
+<img src="assets/hero.svg" alt="Aamir Ullah, full-stack developer. React, Node.js, Express and MongoDB." width="100%">
 
-<div align="center">
+<p>
+  <a href="https://linkedin.com/in/aamirullahofficial"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="48"></a>
+  <a href="https://aamir-ullah-offical.github.io"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="48"></a>
+  <a href="mailto:you@example.com"><img src="assets/btn-email.svg" alt="Email" height="48"></a>
+</p>
 
-# AAMIR ULLAH
+<img src="assets/divider.svg" alt="" width="100%">
 
-### WEB DEVELOPER · FULL-STACK DEVELOPMENT · AI INTEGRATIONS
+## About
 
-Building scalable web applications, intelligent digital products, and practical software solutions.
+I am a full-stack developer from Peshawar, Pakistan. I build MERN applications, integrate third-party APIs and automate repetitive work. I am looking for a junior or mid-level full-stack role, remote or abroad.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Aivora%20Vibe-0A1128?style=for-the-badge&logo=vercel&logoColor=white)](https://aivoravibe.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirullahofficial/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aamir-ullah-offical)
+<img src="assets/marquee.svg" alt="Tech stack: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, REST APIs, Git, GitHub, Figma, VS Code" width="100%">
 
-<br/>
+<img src="assets/divider.svg" alt="" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A1128&height=2&section=header" width="100%" />
+## What I do
 
-</div>
+<img src="assets/bento.svg" alt="Frontend with React, backend with Node.js and Express, API integration, and automation." width="100%">
 
-## PROFILE
+<img src="assets/divider.svg" alt="" width="100%">
 
-I'm a Web Developer and Computer Science graduate focused on building modern, functional, and scalable software applications.
-
-My work spans frontend engineering, backend development, database architecture, REST API integration, and intelligent software solutions.
-
-I also lead product development and technical direction at **Aivora Vibe**, an AI and Software Development Studio.
-
-My approach combines clean implementation, thoughtful architecture, practical problem-solving, and a strong focus on building software that solves real-world problems.
-
-**Currently focused on:**
-- Full-stack web application development.
-- React-based frontend engineering.
-- Node.js, Express.js and backend architecture.
-- Database design and API development.
-- AI integration and business automation.
-- SaaS products and scalable software systems.
-
----
-
-## ENGINEERING & TECHNOLOGY
+## Selected work
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### FRONTEND ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=4" />
-
-- Responsive Web Development
-- Component-Based Architecture
-- Modern UI Development
-- State Management
-- Frontend API Integration
-
-</td>
-<td width="50%" valign="top">
-
-### BACKEND ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&perline=4" />
-
-- RESTful API Development
-- Server-Side Application Logic
-- Database Design & Management
-- Authentication & Authorization
-- Backend Integration
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=4" />
-
-- Git & Version Control
-- API Testing
-- Development Workflows
-- UI/UX Collaboration
-
-</td>
-<td width="50%" valign="top">
-
-### ADDITIONAL TECHNOLOGIES
-
-<img src="https://skillicons.dev/icons?i=python,linux,bash&perline=4" />
-
-- Programming Fundamentals
-- Operating Systems
-- Networking & IT Support
-- Technical Troubleshooting
-
-</td>
-</tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/aamir-ullah-offical/Admin-Pannel"><img src="assets/card-admin-pannel.svg" alt="Admin-Pannel: admin dashboard interface styled with SCSS" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/aamir-ullah-offical/image-slider"><img src="assets/card-image-slider.svg" alt="image-slider: image slider in plain HTML, CSS and JavaScript" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/aamir-ullah-offical/portfolio-book-style"><img src="assets/card-portfolio-book-style.svg" alt="portfolio-book-style: portfolio with a book-style layout" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/aamir-ullah-offical/SMIT-Work"><img src="assets/card-smit-work.svg" alt="SMIT-Work: coursework and practice projects from SMIT" width="100%"></a></td>
+  </tr>
 </table>
 
----
+More repositories on [GitHub](https://github.com/aamir-ullah-offical?tab=repositories).
 
-## PROFESSIONAL EXPERIENCE
+<img src="assets/divider.svg" alt="" width="100%">
 
-### Founder & CTO — Aivora Vibe
-`January 2026 — Present`
+## Experience
 
-AI & Software Development Studio
+<img src="assets/experience.svg" alt="MERN Stack Development Intern at IT Artificier, 3 months. Web Development Intern at Abasyn University, 2 months." width="100%">
 
-- Leading technical direction and software product development.
-- Designing application architecture and backend systems.
-- Developing modern web applications and AI-integrated solutions.
-- Working across APIs, databases, deployment, and automation.
+<img src="assets/divider.svg" alt="" width="100%">
 
-[Explore Aivora Vibe →](https://aivoravibe.tech/)
+## Certifications
 
-### Lab Engineer — Abasyn University
-`Present`
+<img src="assets/certs.svg" alt="Meta Front-End Developer, Coursera. API Integration: End-to-End Web Development, Coursera." width="100%">
 
-Department of Computing
+<img src="assets/divider.svg" alt="" width="100%">
 
-- Supporting programming and computing laboratory activities.
-- Guiding students through practical implementation of technical concepts.
-- Assisting with laboratory operations, technical troubleshooting, and reporting.
+<img src="assets/cta.svg" alt="Hiring a full-stack developer? Open to remote roles and relocation. I reply within two working days." width="100%">
 
-### Web Developer — IT Artificier
-`November 2025 — April 2026`
-
-- Worked on web application development.
-- Applied frontend and backend development technologies.
-- Contributed to practical software development tasks.
-
-### IT & Development Intern — KP Government Servants Housing Foundation
-`July 2025 — October 2025`
-
-- Supported IT and development-related activities.
-- Gained practical experience in technical operations and application development.
-
----
-
-## SELECTED PROJECTS
-
-A selection of applications and products demonstrating my development work.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### POS & Installment Management System
-
-Business management solution covering POS operations, installment tracking, and financial workflows.
-
-**Focus:** Full-stack Development · Business Logic · Database Design
-
-[Live Project ↗](https://abapexgadgets.com)
-
-</td>
-<td width="50%" valign="top">
-
-### Aivora Vibe
-
-AI and Software Development Studio website showcasing software services, products, and technical capabilities.
-
-**Focus:** Web Development · Branding · Business Website
-
-[Live Website ↗](https://aivoravibe.tech)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### E-Fashion Mela
-
-Fashion e-commerce web application.
-
-**Focus:** React · Frontend Development · E-commerce UI
-
-[Live Project ↗](https://e-fashionmelawearproject-6xua.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### GitHub Finder
-
-Web application for discovering GitHub users and exploring developer profiles using GitHub API integration.
-
-**Focus:** React · REST APIs · Frontend Development
-
-[Live Project ↗](https://githubfinder-reactvite.netlify.app)
-
-</td>
-</tr>
-</table>
-
----
-
-## GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aamir-ullah-offical&show_icons=true&hide_border=true&bg_color=0A1128&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-ullah-offical&layout=compact&hide_border=true&bg_color=0A1128&title_color=58A6FF&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=aamir-ullah-offical&hide_border=true&background=0A1128&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-</div>
-
----
-
-## CERTIFICATIONS
-
-- Meta Front-End Developer Professional Certificate
-- Meta Version Control
-- IBM Node.js & Express.js
-- Johns Hopkins University — HTML, CSS & JavaScript
-- API Integration — End-to-End Web Development
-- NAVTTC — Networking & Cloud Computing
-
----
-
-## LET'S CONNECT
-
-I'm interested in collaborating on meaningful software products, modern web applications, AI-powered solutions, and challenging development projects.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aamirullahofficial-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aamirullahofficial/)
-[![Instagram](https://img.shields.io/badge/Instagram-aamir__ullah__official-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/aamir_ullah_official/)
-[![Facebook](https://img.shields.io/badge/Facebook-Aamir%20Ullah-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/AamirUllahOfficial/)
-[![TikTok](https://img.shields.io/badge/TikTok-aamir__dev-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@aamir_dev)
-[![GitHub](https://img.shields.io/badge/GitHub-aamir--ullah--offical-181717?style=flat-square&logo=github)](https://github.com/aamir-ullah-offical)
-
-<br/>
-
-**BUILDING TODAY. ENGINEERING WHAT'S NEXT.**
-
-<sub>Designed & maintained by Aamir Ullah · Pakistan</sub>
-
-</div>
-
+<p>
+  <a href="https://linkedin.com/in/aamirullahofficial"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="48"></a>
+  <a href="mailto:you@example.com"><img src="assets/btn-email.svg" alt="Email" height="48"></a>
+</p>

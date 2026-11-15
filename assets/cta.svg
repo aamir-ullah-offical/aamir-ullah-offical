@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-labelledby="t d">
+  <title id="t">Hiring a full-stack developer?</title>
+  <desc id="d">Open to remote roles and relocation. Replies within two working days.</desc>
+  <defs>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="50"/></filter>
+    <clipPath id="c"><rect width="1000" height="200" rx="20"/></clipPath>
+    <linearGradient id="gt" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="600" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#F5F6F8"/>
+      <stop offset="0.5" stop-color="#F0A202"/>
+      <stop offset="1" stop-color="#FF7A59"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1120 0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      .o1 { animation: d1 12s ease-in-out infinite alternate; }
+      .o2 { animation: d2 15s ease-in-out infinite alternate; }
+      @keyframes d1 { to { transform: translate(140px, 30px); } }
+      @keyframes d2 { to { transform: translate(-160px, -20px); } }
+      @media (prefers-reduced-motion: reduce) { .o1, .o2 { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1000" height="200" rx="20" fill="#0B1220"/>
+  <g clip-path="url(#c)">
+    <g filter="url(#blur)">
+      <circle class="o1" cx="140" cy="60" r="110" fill="#F0A202" fill-opacity="0.28"/>
+      <circle class="o2" cx="880" cy="170" r="130" fill="#3B6CFF" fill-opacity="0.30"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="199" rx="19.5" fill="none" stroke="#24385F"/>
+  <text class="sans" x="40" y="92" font-size="46" font-weight="800" letter-spacing="-1.5" fill="url(#gt)">Hiring a full-stack developer?</text>
+  <text class="sans" x="42" y="138" font-size="18" fill="#C5CEDF">Open to remote roles and relocation. I reply within two working days.</text>
+</svg>
